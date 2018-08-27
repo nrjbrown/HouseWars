@@ -1,7 +1,7 @@
 # HouseWars
 A Decentralized Blockchain Application for House Bidding Wars 
 
-# Aim: 
+## Aim: 
 The aim of this smart contract is to bring transparency to the bidding process in the housing market. 
 
 # Issue:
