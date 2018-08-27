@@ -1,4 +1,4 @@
-# HouseWars
+# HouseWars Dapp
 A Decentralized Blockchain Application for House Bidding Wars 
 
 ### Aim 
