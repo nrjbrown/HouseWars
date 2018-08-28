@@ -13,7 +13,11 @@ At deployment whatever amount of ether deposited in the contract will be on auct
 ### Claiming
 Once an auction is done one can call the claim function in order to start a new auction. This will pay out the amount of ether that was on sale in the current auction to the winner of that auction. It will also start a new auction to sell whatever ether was payed as the highest bid plus any ether that "rolled over" as part of non-winning bid.
 
-## DEMO 
+## DEMO with METAMASK 
+(This allow you to bid from your current account) 
 
 https://exuberant-pet.surge.sh/
 
+## DEMO with TestRPC 
+(This allow you to make bids from multiply accounts) 
+https://efficacious-quince.surge.sh/
