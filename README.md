@@ -15,4 +15,5 @@ Once an auction is done one can call the claim function in order to start a new 
 
 ## DEMO 
 
-https://hushed-able.surge.sh/
+https://exuberant-pet.surge.sh/
+
